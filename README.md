@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nandhini
-- 👀 I’m interested in Data handling and roles like Data Analyst, Business Analyst, Data Engineer and Data Scientist
+- 👀 I’m interested in Data handling and roles like Data Analyst,Data Engineer and Data Scientist
 - 💞️ I’m looking to collaborate on Impressive projects...
 - 📫 How to reach me balakarupusamy011@gmail.com ...
 - 🔗 https://www.linkedin.com/in/nandhini-k-5a97a61aa/
