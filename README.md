@@ -1,6 +1,5 @@
 
-![236119160-976a0405-caa7-470c-9356-16d43402ea0a](https://github.com/user-attachments/assets/bed4c98b-c9c6-4794-95fd-9818f96c4f60)
-
+![](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
 
 - 👋 Hi, I’m Nandhini Karuppusamy
 - 👀 💬 Ask me about Data Science
